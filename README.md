@@ -52,8 +52,8 @@ An interactive-style Excel portfolio project analysing 2,000 sales orders from 2
 ## Files
 
 - `Sales_Performance_Dashboard_Excel.xlsx` — completed Excel workbook
-- `assets/dashboard-preview.png` — dashboard preview
-- `assets/analysis-preview.png` — supporting analysis preview
+- `assets/dashboard.png` — dashboard preview
+- `assets/analysis.png` — supporting analysis preview
 
 ## How to use
 
